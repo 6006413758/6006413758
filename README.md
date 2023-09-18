@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @6006413758
-- 👀 I’m interested in developing
-- 🌱 I’m currently learning REACT.JS
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Data Analyst
 - 📫 How to reach me sagartikoo78@gmail.com
 
 <!---
